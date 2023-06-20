@@ -1,6 +1,4 @@
-﻿using System.Collections.Specialized;
-
-class Sesion2
+﻿class Sesion2
 {
     static void Main()
     {
